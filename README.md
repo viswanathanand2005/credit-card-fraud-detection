@@ -34,7 +34,7 @@ The dataset used in this project is the **Credit Card Fraud Detection** dataset.
 
 1.  Go to the Kaggle dataset page: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 2.  Download the `creditcard.csv` file.
-3.  Place the file in the **root directory** of this project (the same folder as `test.ipynb`).
+3.  Place the file in the **root directory** of this project (the same folder as `notebook.ipynb`).
 
 ## 🧠 Project Workflow
 
@@ -49,7 +49,7 @@ The dataset used in this project is the **Credit Card Fraud Detection** dataset.
 4.  **Handling Imbalance**:
     - Applying **SMOTE** (Synthetic Minority Over-sampling Technique) to the training data to generate synthetic fraud samples.
 5.  **Modeling & Evaluation**:
-    - Training classifiers (e.g., Random Forest, Logistic Regression).
+    - Training classifiers (e.g., XGBoost, Logistic Regression).
     - Visualizing performance using **Confusion Matrices** and classification reports.
 
 ## 🛠 Libraries Used
