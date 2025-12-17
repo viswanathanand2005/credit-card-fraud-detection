@@ -4,7 +4,7 @@ This project analyzes a dataset of credit card transactions to detect fraudulent
 
 ## 📂 Files
 
-- `test.ipynb`: The main Jupyter Notebook containing data loading, visualization, and analysis logic.
+- `notebook.ipynb`: The main Jupyter Notebook containing data loading, visualization, and analysis logic.
 - `requirements.txt`: List of Python dependencies required to run the notebook.
 - `creditcard.csv`: **(Not included in repo)** The dataset file. See the "Dataset" section below for download instructions.
 
@@ -24,7 +24,7 @@ This project analyzes a dataset of credit card transactions to detect fraudulent
     jupyter notebook
     ```
 
-5.  Open `test.ipynb` to view and run the analysis.
+5.  Open `notebook.ipynb` to view and run the analysis.
 
 ## 📊 Dataset
 
